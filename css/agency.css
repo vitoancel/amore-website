@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #e2babc;
 }
 
 .text-primary {
@@ -61,12 +61,12 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #d3a0a0;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #d3a0a0;
   text-shadow: none;
 }
 
@@ -93,19 +93,17 @@ img::-moz-selection {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #e2babc;
+  border-color: #e2babc;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #d3a0a0 !important;
+  border-color: #d3a0a0 !important;
   color: white;
 }
 
-.btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
-}
+
 
 #mainNav {
   background-color: #212529;
